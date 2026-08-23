@@ -19,7 +19,7 @@ void setup() {
     Serial.println("Failed to find INA219 chip. Check wiring!");
     while (1) { delay(10); } 
   }
-  
+   
   Serial.println("INA219 Connected. Monitoring Power...");
 }
 
@@ -36,7 +36,7 @@ void loop() {
   Serial.println(" mA");
   Serial.println("-----------------------");
 
-  if (loadVoltage >= 2.80 && loadVoltage <= 3.20) {
+  if (loadVoltage >= 3.5 && loadVoltage <= 4.00) {
     digitalWrite(mosfetPin, HIGH);
     Serial.println("STATUS: SAFE -> OUTPUT ENABLED");
   } else {
