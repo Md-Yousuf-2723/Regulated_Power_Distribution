@@ -57,6 +57,12 @@ Below is the virtual hardware layout mapping the multi-rail power distribution f
 Developed at the **Rajshahi University of Engineering and Technology (RUET)**  
 *Department of Electrical and Computer Engineering*
 
-* **Md. Yousuf** (Roll: 2310023)
-* **Topu kumar Mondol** (Roll: 2310003)
-* **Anindita Sarkar** (Roll: 2310029)
+* **Md. Yousuf** (Roll: 2310023)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-yousuf-368a92354/) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mdyousuf2723@gmail.com)
+
+* **Topu kumar Mondol** (Roll: 2310003)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Link-0A66C2?style=flat&logo=linkedin&logoColor=white)](#) [![Email](https://img.shields.io/badge/Email-Add_Link-EA4335?style=flat&logo=gmail&logoColor=white)](#)
+
+* **Anindita Sarkar** (Roll: 2310029)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Link-0A66C2?style=flat&logo=linkedin&logoColor=white)](#) [![Email](https://img.shields.io/badge/Email-Add_Link-EA4335?style=flat&logo=gmail&logoColor=white)](#)
+
