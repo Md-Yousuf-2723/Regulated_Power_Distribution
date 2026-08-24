@@ -1,9 +1,8 @@
 # Regulated Power Distribution System
 
 ### 🎥 Project Demonstration
-<video src="Demonstration.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag. Please download the video to view it.
-</video>
+
+https://github.com/user-attachments/assets/eece9491-8e1b-48f2-9187-1ac0fc98f80a
 
 ---
 
