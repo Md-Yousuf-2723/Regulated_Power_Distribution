@@ -61,7 +61,7 @@ Developed at the **Rajshahi University of Engineering and Technology (RUET)**
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-yousuf-368a92354/) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mdyousuf2723@gmail.com)
 
 * **Topu kumar Mondol** (Roll: 2310003)  
-  [![LinkedIn](https://www.linkedin.com/in/topu-kumar-mondol/)](#) [![Email]topukumar538@gmail.com)](#)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/topu-kumar-mondol) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:topukumar538@gmail.com)
 
 * **Anindita Sarkar** (Roll: 2310029)  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Link-0A66C2?style=flat&logo=linkedin&logoColor=white)](#) [![Email](https://img.shields.io/badge/Email-Add_Link-EA4335?style=flat&logo=gmail&logoColor=white)](#)
